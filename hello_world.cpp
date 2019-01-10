@@ -1,3 +1,3 @@
 int main(){
-	std::cout << "Hello World!" << std::endl;
+	std::cout << "FightOn!" << std::endl;
 }
